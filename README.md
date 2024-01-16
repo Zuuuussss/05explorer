@@ -28,9 +28,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um projeto feito para estudos sobre a responsividade entre mobile e desktop.
+Um projeto feito para estudos sobre a responsividade e grid introduzindo pequenas animações para mobile e desktop.
 
-- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/Responsividade/)
+- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/05explorer/)
 
 Esse projeto está sob a licença MIT.
 
